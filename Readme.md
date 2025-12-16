@@ -15,6 +15,8 @@
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+- El paso fundamental es que, después de clonar el repositorio, es necesario cambiar el remoto para que apunte a un repositorio propio, ya que en el repositorio original no tenemos permisos para subir commits.Para eso iremos a Git-Manage Remotes y cambiar la URL.
+![Captura desde 2025-12-16 13-25-01.png](Captura%20desde%202025-12-16%2013-25-01.png)
 
 ### Apartado 2
 
