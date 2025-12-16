@@ -34,4 +34,5 @@ Pregunta
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
-
+- Para que los cambios realizados en GitHub lleguen a la rama principal local usando git pull, primero debemos asegurarnos de estar en la rama correcta (main) y luego ejecutar git pull origin main. Esto descarga los cambios del remoto y los aplica directamente a nuestra rama local, manteniendo el código actualizado.
+![Captura desde 2025-12-16 13-59-24.png](Captura%20desde%202025-12-16%2013-59-24.png)
