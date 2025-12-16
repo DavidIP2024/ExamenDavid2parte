@@ -1,5 +1,6 @@
 # Código para usar en el examen
 # Comentario añadido desde GitHub
+# Segundo comentario añadido desde GitHub
 def saludar(nombre):
     return f"Hola, {nombre}!"
 
