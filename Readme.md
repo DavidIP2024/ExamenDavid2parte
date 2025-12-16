@@ -25,7 +25,8 @@ Pregunta
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
-
+- Para que el codigo llegue a mi rama local lo primero que hice es asegurarme de que estoy en la rama main-git checkout main, luego hice el git fetch origin para descargar los cambios del repositorio remoto que aun no estan en mi copia local y por ultimo hice un git merge origin/main para aplicar los cambios a mi rama main y que mi codigo local quede actualizado.
+![Captura desde 2025-12-16 13-43-06.png](Captura%20desde%202025-12-16%2013-43-06.png)
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
